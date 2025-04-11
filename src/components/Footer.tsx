@@ -1,6 +1,6 @@
 
 "use client"
-import { Facebook, Instagram, Linkedin, Mail, MailIcon, MapPin, PhoneCall, Twitter, Youtube } from "lucide-react"
+import {  MailIcon, MapPin, PhoneCall } from "lucide-react"
 
 export default function Footer() {
     return (
